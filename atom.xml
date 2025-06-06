@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://liewell.github.io</id>
+    <title>LieWell</title>
+    <updated>2025-06-06T09:17:51.486Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://liewell.github.io"/>
+    <link rel="self" href="https://liewell.github.io/atom.xml"/>
+    <subtitle>晚来天欲雪，能饮一杯无</subtitle>
+    <logo>https://liewell.github.io/images/avatar.png</logo>
+    <icon>https://liewell.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, LieWell</rights>
+    <entry>
+        <title type="html"><![CDATA[河岸]]></title>
+        <id>https://liewell.github.io/post/hello/</id>
+        <link href="https://liewell.github.io/post/hello/">
+        </link>
+        <updated>2024-01-08T10:03:49.000Z</updated>
+        <summary type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://liewell.github.io/post-images/1749201459072.jpg" alt="蔷薇岛屿" loading="lazy"></figure>
+]]></summary>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://liewell.github.io/post-images/1749201459072.jpg" alt="蔷薇岛屿" loading="lazy"></figure>
+<!-- more -->
+<p>我知道，你已经把我遗失在河的对岸。黄昏的暮色渐渐深浓。田野苍翠，山冈上的桃花绽放，稻子即将成熟。我们的村庄，温暖芬芳，就这样带着良辰美景，逐渐消失在黑暗中。你的衣角带着涉水而来的潮湿，你终于抵达。我看到你在彼岸，和我一样，抬起头倾听鸟群飞远的声音。笑容纯真。再无痛楚。</p>
+<p>你在出发的时候，记得抚摩我的发丝了吗？我怕你找不到我的气息，找不到我。一整夜我都抱着你。这样当我们在相见的时候，即使你已经非常苍老，你也会记得我。</p>
+<p>我为你穿上过河的衣服，送你渡河。我们所做过的一切，都是捕捉的风，手里一无所有。没有什么东西能够因为不舍而获得怜悯。所以我们放开手。</p>
+<p>我的船还没有过来。时间蒙住我的眼睛，让我猜。我的眼睛已经盲了。只能在回忆里凝望着你。</p>
+<p>世间这样荒芜。寂静深不可测量。如果你不在我的身旁。</p>
+<p>我这样的想念你。</p>
+]]></content>
+    </entry>
+</feed>
